@@ -1,3 +1,12 @@
 {
-  "licenses": []
+  "licenses": [
+    {
+      "hash": "ca6fe7d45ffa05d9bff93f141b8338aae8b154257430645e9218a59307f869e4",
+      "status": true,
+      "botId": "8849835334",
+      "username": "scdarknkte_bot",
+      "addedAt": "2026-09-13T01:13:19.208Z",
+      "addedBy": "8939863020"
+    }
+  ]
 }
