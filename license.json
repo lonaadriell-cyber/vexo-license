@@ -39,33 +39,35 @@
     "addedAt": "2026-09-13T03:58:42.120Z"
   },
   "d991cd48820e95c7490223aec488b6411224b97d266b333092f47483522a5fc8": {
-    "token": "8648394670:AAEfs1jVPRbzf9qmeJhfliZy05X80MD0kwc",
     "status": true,
     "tokenHash": "d991cd48820e95c7490223aec488b6411224b97d266b333092f47483522a5fc8",
-    "tokenMasked": "864839••••D0kwc",
     "botUsername": "losengglesvexobot",
     "botName": "losengglesvexobot",
     "addedBy": "8939863020",
     "addedAt": "2026-09-13T09:11:00.338Z"
   },
   "750748e83ac34395e8491bd464563225be66a8eed600b3d3cc95635df17236af": {
-    "token": "8620444632:AAGl2XiP0nyf-e1XYpYolkUhLTQ2zWhOjYY",
     "status": true,
     "tokenHash": "750748e83ac34395e8491bd464563225be66a8eed600b3d3cc95635df17236af",
-    "tokenMasked": "862044••••hOjYY",
     "botUsername": "xcodevexo_bot",
     "botName": "xcodevexo_bot",
     "addedBy": "8939863020",
     "addedAt": "2026-09-13T09:14:39.997Z"
   },
   "f0d53ea4a5611aaad153529328708ad958c58ac452de5deeb8e4c50c650aec9f": {
-    "token": "8852325426:AAHETyDejlLKodUG2QOeyv-snxsn_VMr1SE",
     "status": true,
     "tokenHash": "f0d53ea4a5611aaad153529328708ad958c58ac452de5deeb8e4c50c650aec9f",
-    "tokenMasked": "885232••••Mr1SE",
     "botUsername": "Testahajjajajajsjsjsbot",
     "botName": "Testaja",
     "addedBy": "8939863020",
     "addedAt": "2026-09-14T12:58:49.468Z"
+  },
+  "4c3cfc8952fa7b16cf49ee3915c1c74a9ef85c0ffcc4980df21bce4cea679ccc": {
+    "tokenHash": "4c3cfc8952fa7b16cf49ee3915c1c74a9ef85c0ffcc4980df21bce4cea679ccc",
+    "status": true,
+    "botUsername": "Kontol_ayamjsjsjsjsnwjsjsbot",
+    "botName": "Kontol ayam",
+    "addedBy": "8939863020",
+    "addedAt": "2026-09-14T13:32:15.437Z"
   }
 }
