@@ -47,6 +47,14 @@
       "username": "Vexo_xkill_bot",
       "addedAt": "2026-10-05T03:22:56.940Z",
       "addedBy": "8939863020"
+    },
+    {
+      "hash": "e20425e09586aff18a41158ab2ab76b401269b81b8a2554fc197543d2c5ba0f5",
+      "status": true,
+      "botId": "8651905853",
+      "username": "adurasukbot",
+      "addedAt": "2026-10-10T14:34:36.673Z",
+      "addedBy": "1631817219"
     }
   ],
   "ca6fe7d45ffa05d9bff93f141b8338aae8b154257430645e9218a59307f869e4": {
@@ -104,4 +112,4 @@
     "addedBy": "8939863020",
     "addedAt": "2026-09-26T14:23:50.045Z"
   }
-}
+}\n
