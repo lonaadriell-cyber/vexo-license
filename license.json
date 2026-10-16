@@ -1,3 +1,12 @@
 {
-  "licenses": []
+  "licenses": [
+    {
+      "hash": "5a77f5caa0ca38b7e2b8d33a7713d0c76bb3a2db664263b109b05ecda322e054",
+      "status": true,
+      "botId": "8790897466",
+      "username": "BOT_RASUK_BY_SANDI_STORE_bot",
+      "addedAt": "2026-10-16T11:57:54.153Z",
+      "addedBy": "8939863020"
+    }
+  ]
 }
