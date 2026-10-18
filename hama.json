@@ -1,0 +1,12 @@
+{
+  "hama": [
+    {
+      "message": "Token ditolak saat pemeriksaan lisensi",
+      "tokenHash": "da01e7e659fc2b62e501f9290e4fc2358aae4ba073c5b8fb8b4d65ebf0600932",
+      "tokenMasked": "89041971...W7Tc",
+      "id": "8939863020",
+      "status": "Token tidak terdaftar di license.json",
+      "reportedAt": "2026-10-18T07:52:33.126Z"
+    }
+  ]
+}
