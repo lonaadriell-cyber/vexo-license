@@ -23,6 +23,14 @@
       "id": "8939863020",
       "status": "Token tidak terdaftar di license.json",
       "reportedAt": "2026-10-18T09:55:37.955Z"
+    },
+    {
+      "message": "Token ditolak saat pemeriksaan lisensi",
+      "tokenHash": "446246a658213a7935256fd019da344ded53d503f98b6ff41fa2e062593917b4",
+      "tokenMasked": "89816174...XbRI",
+      "id": "8779244803",
+      "status": "Token tidak terdaftar di license.json",
+      "reportedAt": "2026-10-18T15:03:55.750Z"
     }
   ]
 }
