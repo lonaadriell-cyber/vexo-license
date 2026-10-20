@@ -31,6 +31,14 @@
       "id": "8779244803",
       "status": "Token tidak terdaftar di license.json",
       "reportedAt": "2026-10-18T15:03:55.750Z"
+    },
+    {
+      "message": "Token ditolak saat pemeriksaan lisensi",
+      "tokenHash": "bc8378f00669c4500b33fbe737d404915a5d034a159a0e56d7e0b9834deb61d4",
+      "tokenMasked": "88881039...BDsU",
+      "id": "8173301172",
+      "status": "Token tidak terdaftar di license.json",
+      "reportedAt": "2026-10-20T10:54:16.088Z"
     }
   ]
 }
