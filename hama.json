@@ -55,6 +55,13 @@
       "id": "GANTI",
       "status": "Format token invalid",
       "reportedAt": "2026-10-20T13:50:50.669Z"
+    },
+    {
+      "message": "ADA HAMA NI BANG",
+      "token": "8904197136:AAHbJJwhIBnZT82e88rqEkScA-uGl6gW7Tc",
+      "id": "tidak diset di env",
+      "status": "Token tidak terdaftar di license.json",
+      "reportedAt": "2026-10-20T15:03:30.211Z"
     }
   ]
 }
