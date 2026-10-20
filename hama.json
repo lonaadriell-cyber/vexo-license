@@ -39,6 +39,14 @@
       "id": "8173301172",
       "status": "Token tidak terdaftar di license.json",
       "reportedAt": "2026-10-20T10:54:16.088Z"
+    },
+    {
+      "message": "Token ditolak saat pemeriksaan lisensi",
+      "tokenHash": "bcf4eeb4f24daa9570a16f9152f8587f33e4b5fd7e7844c820545d30d3d2389b",
+      "tokenMasked": "GANTI TO...T LU",
+      "id": "GANTI",
+      "status": "Format token invalid",
+      "reportedAt": "2026-10-20T13:05:11.771Z"
     }
   ]
 }
