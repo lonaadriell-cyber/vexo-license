@@ -70,6 +70,14 @@
       "id": "1631817219",
       "status": "Token tidak terdaftar di license.json",
       "reportedAt": "2026-10-20T15:07:40.347Z"
+    },
+    {
+      "message": "Token ditolak saat pemeriksaan lisensi",
+      "tokenHash": "18242c3296572d14205449107fe13fa120a5782c5e8ba1eb45fa9f3f031d3b3b",
+      "tokenMasked": "89041971...y7kI",
+      "id": "1631817219",
+      "status": "Token tidak terdaftar di license.json",
+      "reportedAt": "2026-10-20T15:17:42.430Z"
     }
   ]
 }
