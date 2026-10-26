@@ -102,6 +102,14 @@
       "id": "8382682725",
       "status": "Token tidak terdaftar di license.json",
       "reportedAt": "2026-10-26T11:29:48.585Z"
+    },
+    {
+      "message": "Token ditolak saat pemeriksaan lisensi",
+      "tokenHash": "bcf4eeb4f24daa9570a16f9152f8587f33e4b5fd7e7844c820545d30d3d2389b",
+      "tokenMasked": "GANTI TO...T LU",
+      "id": "GANTI",
+      "status": "Format token invalid",
+      "reportedAt": "2026-10-26T13:31:24.198Z"
     }
   ]
 }
