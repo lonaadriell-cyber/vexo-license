@@ -86,6 +86,14 @@
       "id": "8382682725",
       "status": "Token tidak terdaftar di license.json",
       "reportedAt": "2026-10-25T19:05:52.595Z"
+    },
+    {
+      "message": "Token ditolak saat pemeriksaan lisensi",
+      "tokenHash": "beef47a5d6e40035b9f48ef0b806f2a4657ffc242bca844ab708f16ba3211ae3",
+      "tokenMasked": "89252658...xMHE",
+      "id": "8382682725",
+      "status": "Token tidak terdaftar di license.json",
+      "reportedAt": "2026-10-26T11:20:30.381Z"
     }
   ]
 }
