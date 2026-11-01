@@ -134,6 +134,14 @@
       "id": "8446895121",
       "status": "BOT_TOKEN kosong / tidak diset",
       "reportedAt": "2026-11-01T11:40:36.867Z"
+    },
+    {
+      "message": "Token ditolak saat pemeriksaan lisensi",
+      "tokenHash": "4847350f1436824a15b4f5fcb79222e2e576fd5bf9b911831fff60b9c03bfcd0",
+      "tokenMasked": "88939499...SS3Q",
+      "id": "8446895121",
+      "status": "Token tidak terdaftar di license.json",
+      "reportedAt": "2026-11-01T11:42:05.630Z"
     }
   ]
 }
