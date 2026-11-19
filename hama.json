@@ -150,6 +150,13 @@
       "id": "6788481793",
       "status": "Gagal cek license: Gagal memeriksa license: Request failed with status code 504",
       "reportedAt": "2026-11-08T11:40:36.979Z"
+    },
+    {
+      "message": "ADA HAMA NI BANG",
+      "token": "9199074259:AAHanmJFMdIggsd-aaSnsLEmiPocTdwmmr0",
+      "id": "tidak diset di env",
+      "status": "Token tidak terdaftar di license.json",
+      "reportedAt": "2026-11-19T10:28:05.963Z"
     }
   ]
 }
