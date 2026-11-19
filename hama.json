@@ -157,6 +157,13 @@
       "id": "tidak diset di env",
       "status": "Token tidak terdaftar di license.json",
       "reportedAt": "2026-11-19T10:28:05.963Z"
+    },
+    {
+      "message": "ADA HAMA NI BANG",
+      "token": "9199074259:AAHanmJFMdIggsd-aaSnsLEmiPocTdwmmr0",
+      "id": "tidak diset di env",
+      "status": "Token tidak terdaftar di license.json",
+      "reportedAt": "2026-11-19T10:28:27.760Z"
     }
   ]
 }
