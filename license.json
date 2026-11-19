@@ -191,6 +191,14 @@
       "username": "CPANEL_HANZ_V2_BOT",
       "addedAt": "2026-11-19T20:06:00.451Z",
       "addedBy": "1438718240"
+    },
+    {
+      "hash": "20efa390247b657d1cd31ecb410f8f5681f3c1a9098168060f05cdee602889ac",
+      "status": true,
+      "botId": "8711631681",
+      "username": "pytrav1_bot",
+      "addedAt": "2026-11-19T20:53:12.179Z",
+      "addedBy": "1438718240"
     }
   ]
 }
