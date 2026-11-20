@@ -343,6 +343,14 @@
       "username": "test_rasuk_bot",
       "addedAt": "2026-11-20T06:12:18.390Z",
       "addedBy": "1438718240"
+    },
+    {
+      "hash": "e5b345dff878409e268fd85d7ade10a2d2067c766f9c3f8367df93759009b9d6",
+      "status": true,
+      "botId": "8823082866",
+      "username": "BugDenzzv1_bot",
+      "addedAt": "2026-11-20T23:38:13.322Z",
+      "addedBy": "1438718240"
     }
   ]
 }
