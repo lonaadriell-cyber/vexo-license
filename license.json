@@ -399,6 +399,14 @@
       "username": "ubot_premiumbot",
       "addedAt": "2026-11-22T02:18:05.652Z",
       "addedBy": "1438718240"
+    },
+    {
+      "hash": "6249a39889083a4077556d15259654a5fa27b4c66a5d5041a10b310a7acd6584",
+      "status": true,
+      "botId": "8933786643",
+      "username": "bersihpanel_bot",
+      "addedAt": "2026-11-22T03:47:05.612Z",
+      "addedBy": "1438718240"
     }
   ]
 }
